@@ -14,6 +14,7 @@ I chose the Musical Instrument dataset for the analysis. To do so, I used PySpar
 # Results:
 How many Vine reviews and non-Vine reviews were there?
 . There are 60 Vine reviews and 14477 non-Vine reviews in my dataset. 
+
 Total Number of Reviews:
 
 ![Total_number of reviews](https://user-images.githubusercontent.com/74233163/116775244-a09ca900-aa27-11eb-97fd-dd0b304e6828.png)
@@ -28,12 +29,12 @@ How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 The percentage is 56.67% for the Vine reviews and 56.72% for the non-Vine reviews. 
 
-Review Percent:
+Percentage 5-star Reviews:
 ![percentage of 5-star](https://user-images.githubusercontent.com/74233163/116775293-ed807f80-aa27-11eb-84af-963d6adeed96.png)
 
 
 # Summary:
 
-Seeing the percentage number between the two groups, I do not see any positivity bias for reviews in the Vine Program. The percentage number is really close, only 0.05. This also shows that receiving a review from the Vine program participant does not guarantee a 100 #5-star review, which is great for the unbiased aspect of the reviews.
+When Seeing the percentage number between the two groups, I don't see any positivity bias for reviews in the Vine Program. The percentage number is really close, there is only 0.05. This also shows that receiving a review from the Vine program participant doesn't guarantee a 100 #5-star review, which i think it is great for the unbiased aspect of the reviews.
 
-For my future analysis, I would like to do the average star reviews of each item for the two groups. This will let us know the actual unbiased aspect of the reviews or the program.
+For the future analysis, I think the other thing  to do is to calculate the average star reviews of each item for the two groups. This will let us know the actual unbiased aspect of the reviews or the program.
